@@ -162,25 +162,32 @@ root@uzair-machine:~$ ./display_profile.sh
 </div>
 
 ---
-
 <h2 align="center">🧠 // AI & MACHINE LEARNING EXPERIMENTS</h2>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🖼️ CBIR System</h3>
       <p align="center"><i>Content-Based Image Retrieval</i></p>
       <ul>
-        <li><b>Stack:</b> Python, OpenCV, Scikit-Learn</li>
-        <li><b>Focus:</b> Feature extraction and image similarity matching.</li>
+        <li><b>Stack:</b> Python, PyTorch, OpenCV, FAISS</li>
+        <li><b>Focus:</b> Feature extraction (ResNet50, ViT) and high-speed similarity matching.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Adaptive E-Learning</h3>
+      <p align="center"><i>BDI Agent Architecture</i></p>
+      <ul>
+        <li><b>Stack:</b> Python, LLMs, Rule-Based Agents</li>
+        <li><b>Focus:</b> Autonomous coordinator agents modeling student knowledge via forgetting curves.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🌾 Crop Disease Detection</h3>
       <p align="center"><i>Agricultural Diagnostics CNN</i></p>
       <ul>
         <li><b>Stack:</b> PyTorch, Computer Vision</li>
-        <li><b>Focus:</b> Training a convolutional neural network to achieve 95%+ classification accuracy.</li>
+        <li><b>Focus:</b> Training a VGG19 deep learning model to achieve 94%+ classification accuracy.</li>
       </ul>
     </td>
   </tr>
@@ -224,7 +231,7 @@ root@uzair-machine:~$ ./display_profile.sh
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-uzair21458190@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzair21458190@gmail.com)
+[![Email](https://img.shields.io/badge/Email-uzair2145819@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzair2145819@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uzair_Warraich-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzyr-chaudhary/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-uzayr--ch.github.io-00FFE0?style=for-the-badge&logo=safari&logoColor=black)](https://uzayr-ch.github.io/Portfolio)
 
